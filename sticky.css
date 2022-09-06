@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  dl > div {
+    background: #FFF;
+    padding: 24px 0 0 0;
+  }
+  
+  dt {
+    background: #B8C1C8;
+    border-bottom: 1px solid #989EA4;
+    border-top: 1px solid #717D85;
+    color: #FFF;
+    font: bold 21px Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 2px 0 0 12px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+  }
+  
+  dd {
+    font: bold 20px Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0 0 0 12px;
+   
+  }
+  
+  
